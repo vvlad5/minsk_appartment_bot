@@ -40,7 +40,6 @@ function convertOnlinerApartmentToMessage(
     `Цена: ${apartment.price.converted.USD.amount} USD (${apartment.price.converted.BYN.amount} BYN)`,
     `Обновлено: ${formatDate(apartment.last_time_up)}`,
     `Адрес: ${apartment.location.address}`,
-    `v0.1.10`,
   ];
 
   return rows.join("\n");
@@ -58,7 +57,6 @@ function convertRealtOnlinerApartmentToMessage(
     `Цена: ${apartment.price}`,
     `Обновлено: ${apartment.date}`,
     `Адрес: ${apartment.address}`,
-    `v0.1.10`,
   ];
 
   return rows.join("\n");
