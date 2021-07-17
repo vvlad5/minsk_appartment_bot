@@ -2,7 +2,7 @@ users:
   - name: vlad
     config:
       bot_token: 1864151853:AAHgkrk0iFlJIWWiacF4cNXIA4TbLChRjNE
-      chat_id: 413383093
+      chat_id: -478897834
       onliner_params:
         - only_owner: true
         - rent_type[]: 1_room
