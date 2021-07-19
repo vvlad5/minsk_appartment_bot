@@ -11,8 +11,6 @@ users:
         - price[min]: 300
         - price[max]: 450
         - currency: usd
-        - metro[]: red_line
-        - metro[]: blue_line
         - bounds[lb][lat]: 53.81443127478178
         - bounds[lb][long]: 27.317984927108977
         - bounds[rt][lat]: 53.98436885620384
