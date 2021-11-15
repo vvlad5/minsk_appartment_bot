@@ -9,7 +9,7 @@ users:
         - rent_type[]: 2_rooms
         - rent_type[]: 3_rooms
         - price[min]: 300
-        - price[max]: 450
+        - price[max]: 500
         - currency: usd
         - bounds[lb][lat]: 53.81443127478178
         - bounds[lb][long]: 27.317984927108977
